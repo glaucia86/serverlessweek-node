@@ -16,6 +16,6 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 
 ## Sobre a demo 💻
 
-- **[demo-1]()**: aqui eu ensino como fazer o famoso 'HelloWorld' com Node.js & Azure Functions. Após a criação, iremos realizar o deploy no Visual Studio Code direto para a nuvem!
+- **[demo-1](demo-1/demo-1.md)**: aqui eu ensino como fazer o famoso 'HelloWorld' com Node.js & Azure Functions. Após a criação, iremos realizar o deploy no Visual Studio Code direto para a nuvem!
 
 **(documentação em desenvolvimento)**
