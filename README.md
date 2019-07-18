@@ -18,4 +18,13 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 
 - **[demo-1](demo-1/demo-1.md)**: aqui eu ensino como fazer o famoso 'HelloWorld' com Node.js & Azure Functions. Após a criação, iremos realizar o deploy no Visual Studio Code direto para a nuvem!
 
-**(documentação em desenvolvimento)**
+## Links & Recursos Importantes ❗️
+
+Durante a live, comentei sobre importantes documentações e recursos que podem auxiliar o seu conhecimento sobre Serverless & Azure Functions
+
+- ✅ **[Azure para devs JavaScript & Node.js](https://docs.microsoft.com/pt-br/javascript/azure/?WT.mc_id=serverlessweek-github-gllemos&view=azure-node-latest)**
+- ✅ **[Documentação Azure Functions](https://docs.microsoft.com/pt-br/azure/azure-functions/?WT.mc_id=serverlessweek-github-gllemos)**
+- ✅ **[Criando a sua Primeira Função no Visual Studio Code](https://docs.microsoft.com/pt-br/azure/azure-functions/functions-create-first-function-vs-code?WT.mc_id=serverlessweek-github-gllemos)**
+- ✅ **[Extensão Vs Code – Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=serverlessweek-github-gllemos)**
+- ✅ **[E-Book Grátis - Azure Serverless Computing Cookbook](https://azure.microsoft.com/pt-br/resources/azure-serverless-computing-cookbook/?WT.mc_id=serverlessweek-github-gllemos)**
+- ✅ **[Cursos Grátis - Azure Functions](https://docs.microsoft.com/pt-br/learn/paths/create-serverless-applications/?WT.mc_id=serverlessweek-github-gllemos)**
