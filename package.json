@@ -1,0 +1,10 @@
+{
+  "name": "serverlessweek-node",
+  "version": "1.0.0",
+  "description": "Demo para o evento ServerlessWeek.",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
