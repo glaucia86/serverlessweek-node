@@ -6,6 +6,7 @@ Repositório responsável pelas demos do evento online **[Serverless Week](https
 
 ## Recursos Utilizados 🚀
 
+- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=serverlessweek-github-gllemos)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[Extensão Visual Studio Code: Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=serverlessweek-github-gllemos)**
 - **[Conta Azure - Conta Gratuita](https://azure.microsoft.com/free/?WT.mc_id=serverlessweek-github-gllemos)**
