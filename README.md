@@ -18,6 +18,8 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 
 - **[demo-1](demo-1/demo-1.md)**: aqui eu ensino como fazer o famoso 'HelloWorld' com Node.js & Azure Functions. Após a criação, iremos realizar o deploy no Visual Studio Code direto para a nuvem!
 
+- **[demo-2]()
+
 ## Links & Recursos Importantes ❗️
 
 Durante a live, comentei sobre importantes documentações e recursos que podem auxiliar o seu conhecimento sobre Serverless & Azure Functions
