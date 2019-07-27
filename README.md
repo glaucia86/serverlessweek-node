@@ -1,4 +1,4 @@
-# Demos Palestra: Ganhe mais Produtividade Criando Projetos Serverless com Visual Studio Code & Node.js
+# Demos Palestra: Ganhe mais Produtividade Criando Projetos Serverless com Visual Studio Code & Node.js by Glaucia Lemos
 
 [![Screen-Shot-07-18-19-at-02-11-PM.png](https://i.postimg.cc/bN6KTwdL/Screen-Shot-07-18-19-at-02-11-PM.png)](https://postimg.cc/gnZScdV6)
 
