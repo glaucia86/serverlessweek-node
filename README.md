@@ -21,7 +21,7 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 
 ## Links & Recursos Importantes ❗️
 
-Durante a live, comentei sobre importantes documentações e recursos que podem auxiliar o seu conhecimento sobre Serverless & Azure Functions
+Durante a live, comentei sobre importantes documentações, links e recursos que podem auxiliar o seu conhecimento sobre Serverless & Azure Functions
 
 - ✅ **[Azure para devs JavaScript & Node.js](https://docs.microsoft.com/pt-br/javascript/azure/?WT.mc_id=serverlessweek-github-gllemos&view=azure-node-latest)**
 - ✅ **[Documentação Azure Functions](https://docs.microsoft.com/pt-br/azure/azure-functions/?WT.mc_id=serverlessweek-github-gllemos)**
